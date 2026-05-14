@@ -1,4 +1,4 @@
-# 
+# elite mean reversion trading bot Algorithm | parameter-optimization + triangular-arbitrage is the best mean reversion trading bot, featuring parameter-optimization and
 
 
 
